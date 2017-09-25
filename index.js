@@ -14,7 +14,7 @@ var animal = 'cat'
 }
 
 function add2(n) {
-  return n + two
+  return n + two.parseInt
 
   // Feel free to move things around!
   const two = 2
